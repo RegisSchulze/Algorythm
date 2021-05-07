@@ -98,7 +98,7 @@ The data is available in several formats such as HTML, UTF-8, feel free to work 
 
 - folder app containing two .py files : app.py and summary.py and also templates folder that contains index.html file
 - Full book summarization.ipynb
-- 203.txt file and 203-0-chapters folder
+- 203.txt file and 203-0-chapters folder.
 
 ### How to use the different files
 
